@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio website](http://shivamkumarjhaportfolio.000webhostapp.com/)
+- 🔭 I’m currently working on [my portfolio website](https://s-k-jha.github.io/oibsip_task_2/)
 
 - 🌱 I’m currently learning **React**
 
