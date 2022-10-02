@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [http://shivamkumarjhaportfolio.000webhostapp.com/](http://shivamkumarjhaportfolio.000webhostapp.com/)
 
-- 📝 I regularly write articles on [coming soon...]
+- 📝 I regularly write blogs on https://medium.com/@shivamkumarjha0825
 
 - 💬 Ask me about **C,C++,PYTHON,HTML,CSS,JS**
 
