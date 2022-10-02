@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/s-k-jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-k-jha" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://github.com/s-k-jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-k-jha" height="30" width="40" /></a>
+<a href="https://github.com/s-k-jha" target="blank"><img align="center" src="https://github.com/s-k-jha" alt="s-k-jha" height="30" width="40" /></a>
 </p>
 
 
