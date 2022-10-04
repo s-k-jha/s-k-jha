@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **front-end related projects**
+- 👯 I’m looking to collaborate on **Web-Development Projects**
 
 - 👨‍💻 All of my projects are available at [http://shivamkumarjhaportfolio.000webhostapp.com/](http://shivamkumarjhaportfolio.000webhostapp.com/)
 
