@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-k-jha&show_icons=true&locale=en" alt="s-k-jha" /></p>
 
-[![@shivamjha's Holopin board](https://holopin.me/shivamjha)](https://holopin.io/@shivamjha)
+-[![@shivamjha's Holopin board](https://holopin.me/shivamjha)](https://holopin.io/@shivamjha)
