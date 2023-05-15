@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [My Personal Website](https://s-k-jha.github.io/sk/)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Backend Technologies**
 
 - 👯 I’m looking to collaborate on **Web-Development Projects**
 
