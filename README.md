@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend Technologies**
 
-- 👯 I’m looking to collaborate on **Web-Development Projects**
+- 👯 I’m looking to collaborate on **Software & Web-Development Projects**
 
 - 👨‍💻MY first hosted basic website [http://shivamkumarjhaportfolio.000webhostapp.com/](http://shivamkumarjhaportfolio.000webhostapp.com/)
 
