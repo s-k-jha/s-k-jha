@@ -9,7 +9,7 @@
 
 - 🔭 Visit My Website [skjha.com](https://s-k-jha.github.io/sk/)
 
-- 🌱 I’m currently learning **Backend Technologies**
+- 🌱 I’m currently learning **Cloud Technologies**
 
 - 👯 I’m looking to collaborate on **Software & Web-Development Projects**
 
