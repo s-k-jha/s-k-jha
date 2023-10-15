@@ -9,7 +9,7 @@
 
 - 🔭 Visit My Website [Shivam-Portfolio.com](https://s-k-jha.github.io/sk/)
 
-- 🌱 I’m currently working as a TA in*Coding Ninjas **
+- 🌱 I’m currently working as a TA in ** Coding Ninjas **
 
 - 👯 I’m looking to collaborate on **Software & Web-Development Projects**
 
