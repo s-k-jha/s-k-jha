@@ -11,7 +11,7 @@
 
 - 🌱 Ex-Teaching Assistant@**Coding Ninjas**
 
-- 👯 I’m looking to collaborate on **Software & Web-Development Projects**
+- 👯 Ex-Intern (Web Developer) @**IThink Solutions**
 
 - 📝 I regularly write blogs on https://medium.com/@shivamkumarjha0825
   
