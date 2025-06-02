@@ -8,8 +8,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 Visit My Website [Shivam-Portfolio.com](https://s-k-jha.github.io/sk/)
-- 
-- - 👯 SDE Intern @**Flatmate.in**
+
+- 👯 SDE Intern @**Flatmate.in**
 
 - 🌱 Ex-Teaching Assistant@**Coding Ninjas**
 
