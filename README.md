@@ -64,7 +64,7 @@ Currently
   Coding Ninjas         Flatmate.in          IThink Solutions         DivineTalk
   ─────────────         ───────────          ────────────────         ──────────
   Teaching Assistant →  Software Developer   →   Web Developer      →   SDE  ← now
-  [ Mentored ]           [ Shipped ]             [ Shipped ]           [ Shipping ]
+  [ Mentored DSA]        [ Shipped ]             [ Shipped ]           [ Shipping ]
        ○────────────────────○────────────────────○────────────────────◉
 ```
 
